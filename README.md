@@ -1,6 +1,9 @@
 # 📊 S&P 500 ESG Risk Prediction & Analysis
 
-Leveraging Ensemble Learning to evaluate corporate sustainability and investment risk.
+## Leveraging Ensemble Learning to evaluate corporate sustainability and investment risk.
+<p align="center">
+  <img src="esg_analysis.png" width="700">
+</p>
 
 ## 📌 Project Overview
 ### Context
